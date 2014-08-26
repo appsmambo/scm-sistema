@@ -1,0 +1,7 @@
+[13-Aug-2014 19:14:51 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[13-Aug-2014 19:15:06 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 545
+[13-Aug-2014 19:15:36 CST6CDT] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 545
+[13-Aug-2014 19:16:04 CST6CDT] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 545
+[13-Aug-2014 19:16:08 CST6CDT] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 545
+[13-Aug-2014 19:17:04 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[19-Aug-2014 13:26:04 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/scmperu/public_html/staging/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
